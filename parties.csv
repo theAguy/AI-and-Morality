@@ -1,0 +1,289 @@
+class,gender,age,living,type_living,rooms,education,salary,family_status,kids,religion,believe,important,left_right
+Likud,Man,24,Center,City,4,First degree,10K-15K,Single,0,Jewish,secular,Security,70
+Tikva Hadasha,Woman,24,Center,City,6,First degree,Unemployed,Other,0,Jewish,secular,Health,50
+Tikva Hadasha,Man,57,Haifa,Yeshuv,8,Second degree,20K-25K,Married,4,Jewish,secular,Economy,50
+Tikva Hadasha,Woman,60,Center,Yeshuv,8,Second degree,25K+,Married,3,Jewish,secular,Economy,50
+Likud,Man,56,Center,City,4,First degree,25K+,Married,4,Jewish,secular,Security,100
+Likud,Man,24,Center,City,4,First degree,10K-15K,Single,0,Jewish,secular,Security,70
+Likud,Woman,18,Center,City,4,Other,Other,Single,0,Jewish,secular,Security,70
+Likud,Woman,53,North,City,4,Second degree,25K+,Married,4,Jewish,secular,Health,75
+Likud,Woman,53,North,City,4,Second degree,25K+,Married,4,Jewish,secular,Health,75
+Likud,Woman,18,Center,City,4,Other,Other,Single,0,Jewish,secular,Security,70
+Tikva Hadasha,Man,28,Haifa,Yeshuv,9,First degree,Unemployed,Single,0,Jewish,secular,Economy,55
+Merets,Man,56,North,Yeshuv,5,Second degree,25K+,Married,3,Jewish,atheist,Social equality,20
+Haavoda,Man,57,Center,Yeshuv,7,First degree,25K+,Married,3,Jewish,atheist,Social equality,35
+Haavoda,Man,57,North,Yeshuv,4,Second degree,25K+,Married,3,Jewish,secular,Social equality,50
+Yesh Atid,Man,57,Center,City,3,Second degree,25K+,Married,2,Jewish,secular,Health,60
+Yesh Atid,Man,43,Center,City,5,First degree,15K-20K,Married,3,Jewish,secular,Health,40
+Merets,Man,59,Tel Aviv,City,6,Third degree and above,25K+,Married,2,Jewish,secular,Economy,40
+Merets,Man,57,Jerusalem,City,4,First degree,Unemployed,Married,2,Jewish,atheist,Economy,20
+Merets,Man,57,Tel Aviv,City,6,First degree,25K+,Married,3,Jewish,secular,Social equality,40
+Yesh Atid,Man,57,Center,City,5,Second degree,25K+,Married,3,Jewish,secular,Economy,60
+Yamina,Man,28,Tel Aviv,City,4,First degree,25K+,Married,0,Jewish,observant,Economy,60
+Yesh Atid,Man,57,Center,City,5,Second degree,25K+,Married,3,Jewish,secular,Economy,60
+Yesh Atid,Woman,25,Center,City,3,First degree,5K-10K,Single,0,Jewish,secular,Social equality,45
+Kahol Lavan,Man,24,Tel Aviv,City,4,High school,Unemployed,Single,0,Jewish,secular,Economy,40
+Yamina,Woman,24,Tel Aviv,City,5,High school,Unemployed,Single,0,Jewish,secular,Health,75
+Yahadut Hatora,Man,32,South,City,4,Graduate High school,10K-15K,Married,4,Jewish,Very religious,Economy,20
+Yesh Atid,Woman,25,Center,City,5,First degree,5K-10K,Single,0,Jewish,observant,Economy,60
+Yesh Atid,Woman,25,Tel Aviv,City,5,First degree,Unemployed,Single,0,Jewish,secular,Economy,60
+Yesh Atid,Woman,25,Center,City,3,First degree,5K-10K,Single,0,Jewish,secular,Social equality,45
+Haavoda,Woman,24,Center,City,5,First degree,less then 5K,Single,0,Jewish,observant,Economy,45
+Haavoda,Man,28,North,Kibutz,2,High school,5K-10K,Single,0,Jewish,atheist,Social equality,30
+Shas,Woman,35,Center,Moshav,4,High school,10K-15K,Married,2,Jewish,religious,Health,80
+Haavoda,Man,65,Center,City,4,Second degree,25K+,Married,3,Jewish,secular,Social equality,10
+Other,Woman,40,North,Kefar,5,Second degree,10K-15K,Married,5,Muslim,religious,Economy,50
+Likud,Woman,50,Center,Yeshuv,8,Third degree and above,20K-25K,Married,3,Jewish,secular,Security,70
+Shas,Woman,30,Center,City,3,Graduate High school,Unemployed,Married,4,Jewish,religious,Economy,70
+Haavoda,Man,50,Center,City,3,First degree,15K-20K,Divorced,3,Jewish,secular,Social equality,25
+Likud,Man,46,Center,Yeshuv,4,Graduate High school,10K-15K,Married,2,Jewish,religious,Social equality,85
+Tikva Hadasha,Man,49,Center,Yeshuv,7,Second degree,25K+,Married,4,Jewish,secular,Economy,70
+Likud,Man,54,Center,Moshav,6,High school,10K-15K,Married,3,Jewish,observant,Security,75
+Haavoda,Woman,42,Haifa,City,5,First degree,5K-10K,Married,2,Jewish,secular,Economy,50
+Haavoda,Man,16,Haifa,City,5,Graduate High school,Unemployed,Single,0,Jewish,atheist,Economy,60
+Haavoda,Woman,46,Center,City,6,First degree,Other,Married,3,Jewish,secular,Health,20
+Likud,Man,57,North,Moshav,9,Second degree,25K+,Married,2,Jewish,atheist,Economy,80
+Yesh Atid,Woman,60,Center,City,3,Second degree,10K-15K,Single,0,Jewish,Other,Economy,50
+Likud,Woman,58,Center,City,3,High school,Other,Married,3,Jewish,religious,Health,90
+Tikva Hadasha,Man,58,Tel Aviv,City,5,Second degree,25K+,Married,2,Jewish,secular,Economy,50
+Haavoda,Woman,45,Tel Aviv,City,5,First degree,10K-15K,Married,3,Jewish,secular,Social equality,40
+Hakalkalit Hahadasha,Man,33,Center,City,4,First degree,10K-15K,Single,2,Jewish,secular,Health,70
+Kahol Lavan,Man,28,Tel Aviv,City,3,First degree,15K-20K,Single,0,Jewish,secular,Economy,45
+Yesh Atid,Woman,63,Center,Yeshuv,4,Second degree,10K-15K,Married,3,Jewish,secular,Social equality,30
+Tikva Hadasha,Man,49,Center,Yeshuv,7,Second degree,25K+,Married,4,Jewish,secular,Economy,70
+Kahol Lavan,Man,28,Tel Aviv,City,2,Other,15K-20K,Other,0,Jewish,secular,Health,50
+Yesh Atid,Man,61,Center,City,3,Second degree,15K-20K,Divorced,2,Jewish,secular,Security,60
+Other,Woman,38,Center,City,3,Second degree,10K-15K,Married,0,Jewish,observant,Health,40
+Israel Beitenu,Man,43,Center,City,6,First degree,25K+,Married,4,Jewish,secular,Economy,50
+Haavoda,Woman,61,Center,Yeshuv,6,Graduate High school,5K-10K,Married,3,Jewish,secular,Economy,50
+Yesh Atid,Woman,63,Center,Yeshuv,4,First degree,10K-15K,Married,3,Jewish,secular,Economy,30
+Other,Man,58,Center,Yeshuv,7,Graduate High school,25K+,Divorced,3,Jewish,observant,Health,50
+Hakalkalit Hahadasha,Woman,70,Center,Yeshuv,5,First degree,5K-10K,Married,6,Jewish,secular,Economy,60
+Yesh Atid,Woman,67,Center,Yeshuv,5,Graduate High school,5K-10K,Married,3,Jewish,secular,Economy,50
+Yesh Atid,Man,63,Center,Yeshuv,3,Graduate High school,15K-20K,Married,1,Jewish,secular,Economy,55
+Haavoda,Woman,31,Center,City,1,Graduate High school,5K-10K,Single,0,Jewish,secular,Health,30
+Yamina,Man,68,Center,City,6,First degree,25K+,Married,4,Jewish,religious,Economy,80
+Haavoda,Man,86,Center,City,4,Graduate High school,Other,Widowed,3,Jewish,secular,Economy,40
+Yesh Atid,Man,37,South,City,4,Second degree,25K+,Married,3,Jewish,secular,Economy,50
+Haavoda,Woman,35,Center,Yeshuv,6,First degree,25K+,Married,2,Jewish,secular,Health,40
+Yesh Atid,Woman,40,Center,City,3,High school,less then 5K,Single,0,Jewish,secular,Health,0
+Haavoda,Woman,31,Tel Aviv,City,3,First degree,5K-10K,Single,0,Jewish,secular,Social equality,50
+Kahol Lavan,Man,33,Tel Aviv,City,3,Second degree,25K+,Single,0,Jewish,secular,Health,65
+Haavoda,Woman,30,Tel Aviv,City,4,First degree,5K-10K,Single,2,Jewish,secular,Social equality,30
+Yamina,Man,58,Center,City,6,Graduate High school,25K+,Married,3,Jewish,secular,Health,90
+Merets,Man,53,Center,City,4,First degree,20K-25K,Divorced,3,Jewish,secular,Social equality,20
+Other,Woman,57,Center,City,5,High school,5K-10K,Married,2,Jewish,secular,Health,50
+Yesh Atid,Woman,52,Center,Yeshuv,6,Second degree,25K+,Married,3,Jewish,observant,Economy,51
+Yesh Atid,Woman,57,Center,City,5,Graduate High school,10K-15K,Married,3,Jewish,secular,Economy,50
+Other,Woman,35,Tel Aviv,City,3,First degree,5K-10K,Single,0,Jewish,secular,Social equality,50
+Yesh Atid,Woman,69,Haifa,City,4,Graduate High school,Unemployed,Married,3,Jewish,atheist,Economy,49
+Hakalkalit Hahadasha,Woman,18,Haifa,Yeshuv,8,High school,Unemployed,Single,0,Jewish,secular,Security,40
+Merets,Woman,18,Haifa,Moshav,1,High school,Unemployed,Single,0,Jewish,secular,Social equality,0
+Yesh Atid,Woman,58,North,Kibutz,5,Second degree,Unemployed,Married,4,Jewish,secular,Social equality,10
+Yesh Atid,Woman,46,North,City,6,Second degree,5K-10K,Married,2,Other,atheist,Economy,40
+Yesh Atid,Woman,56,Center,City,5,First degree,10K-15K,Divorced,3,Jewish,secular,Health,40
+Haavoda,Woman,50,North,Yeshuv,9,Second degree,15K-20K,Married,4,Jewish,secular,Economy,45
+Kahol Lavan,Woman,48,Center,Yeshuv,5,High school,10K-15K,Married,3,Jewish,secular,Health,50
+Likud,Woman,50,Haifa,City,5,Second degree,15K-20K,Married,4,Jewish,observant,Economy,80
+Hatsionut Hadatit,Woman,44,Tel Aviv,City,7,Second degree,20K-25K,Married,6,Jewish,religious,Health,90
+Yesh Atid,Man,56,Center,City,3,High school,10K-15K,Married,2,Jewish,secular,Social equality,39
+Likud,Man,52,North,Yeshuv,5,High school,25K+,Married,3,Jewish,secular,Economy,50
+Yesh Atid,Woman,55,Center,Yeshuv,4,Graduate High school,10K-15K,Divorced,3,Jewish,secular,Economy,40
+Yesh Atid,Man,50,North,Moshav,5,Graduate High school,Unemployed,Married,3,Jewish,secular,Economy,60
+Yesh Atid,Man,49,Center,Yeshuv,7,Second degree,10K-15K,Married,4,Jewish,secular,Economy,50
+Likud,Woman,28,Center,City,3,First degree,5K-10K,Single,0,Jewish,secular,Health,80
+Merets,Woman,46,Center,City,4,Graduate High school,5K-10K,Divorced,0,Jewish,atheist,Security,10
+Israel Beitenu,Woman,40,Center,Yeshuv,6,First degree,10K-15K,Married,3,Jewish,secular,Economy,50
+Tikva Hadasha,Woman,52,Center,City,5,Second degree,10K-15K,Married,3,Jewish,secular,Health,60
+Yesh Atid,Woman,58,Center,City,5,Graduate High school,less then 5K,Married,3,Jewish,secular,Economy,40
+Merets,Woman,61,South,Kibutz,4,Second degree,10K-15K,Married,3,Jewish,secular,Social equality,30
+Yesh Atid,Woman,40,Center,City,4,Graduate High school,5K-10K,Married,2,Jewish,secular,Economy,50
+Tikva Hadasha,Man,38,Center,City,4,First degree,20K-25K,Married,2,Jewish,secular,Economy,70
+Likud,Man,53,Center,Kefar,5,Graduate High school,10K-15K,Married,2,Jewish,secular,Economy,80
+Merets,Woman,47,Center,City,8,High school,5K-10K,Married,2,Jewish,secular,Health,50
+Tikva Hadasha,Man,53,Tel Aviv,Kefar,5,First degree,15K-20K,Married,3,Jewish,observant,Economy,60
+Haavoda,Woman,56,Center,City,7,First degree,10K-15K,Married,3,Jewish,secular,Social equality,55
+Yesh Atid,Man,63,Center,City,5,Graduate High school,5K-10K,Married,3,Jewish,secular,Health,50
+Yamina,Woman,38,Center,City,5,First degree,15K-20K,Married,4,Jewish,secular,Economy,50
+Haavoda,Woman,39,Center,City,3,High school,25K+,Married,2,Jewish,atheist,Social equality,24
+Yesh Atid,Woman,58,Center,City,5,Second degree,25K+,Married,2,Jewish,atheist,Economy,50
+Yesh Atid,Woman,65,Center,City,7,Second degree,20K-25K,Married,3,Jewish,secular,Economy,20
+Other,Woman,34,Center,City,4,First degree,20K-25K,Married,2,Jewish,secular,Economy,60
+Yesh Atid,Man,69,Center,City,7,First degree,Other,Married,3,Jewish,secular,Economy,50
+Likud,Man,53,Center,City,4,Graduate High school,25K+,Married,2,Jewish,secular,Health,75
+Shas,Woman,43,Jerusalem,City,6,Second degree,20K-25K,Married,6,Jewish,Very religious,Health,85
+Likud,Man,48,Haifa,Kefar,4,Second degree,10K-15K,Married,4,Muslim,observant,Social equality,50
+Yesh Atid,Woman,59,Center,City,6,Second degree,20K-25K,Married,3,Jewish,secular,Health,35
+Tikva Hadasha,Woman,44,Haifa,Yeshuv,5,Second degree,15K-20K,Married,3,Jewish,secular,Social equality,80
+Haavoda,Woman,52,Center,Kibutz,3,Second degree,10K-15K,Married,2,Jewish,secular,Health,30
+Other,Man,44,North,Yeshuv,4,Second degree,10K-15K,Married,5,Muslim,religious,Economy,70
+Haavoda,Woman,55,Center,Yeshuv,5,First degree,5K-10K,Married,3,Jewish,Other,Social equality,35
+Yamina,Woman,52,Center,City,6,High school,5K-10K,Married,3,Jewish,secular,Economy,75
+Likud,Woman,31,North,City,4,Graduate High school,Unemployed,Single,0,Jewish,observant,Social equality,75
+Haavoda,Woman,34,South,Kibutz,4,First degree,5K-10K,Single,2,Jewish,secular,Economy,35
+Yesh Atid,Woman,37,Center,Yeshuv,5,Second degree,Other,Single,0,Jewish,secular,Health,75
+Yesh Atid,Woman,57,Center,City,4,Graduate High school,10K-15K,Married,3,Jewish,secular,Health,50
+Yesh Atid,Man,60,Center,City,5,Second degree,15K-20K,Married,2,Jewish,secular,Economy,80
+Likud,Woman,55,Center,City,4,Second degree,10K-15K,Divorced,1,Jewish,secular,Social equality,50
+Tikva Hadasha,Woman,71,Center,Yeshuv,5,First degree,10K-15K,Married,3,Jewish,observant,Health,60
+Yesh Atid,Woman,53,Center,City,5,Second degree,10K-15K,Divorced,2,Jewish,secular,Social equality,60
+Yesh Atid,Woman,47,Center,City,7,Second degree,15K-20K,Married,2,Jewish,secular,Health,35
+Yesh Atid,Woman,58,Center,City,5,First degree,5K-10K,Married,2,Jewish,observant,Health,50
+Yesh Atid,Woman,32,Center,City,5,First degree,10K-15K,Married,2,Jewish,observant,Social equality,60
+Yamina,Woman,48,Center,Yeshuv,6,First degree,20K-25K,Married,4,Jewish,religious,Economy,40
+Haavoda,Man,62,North,City,5,Second degree,15K-20K,Married,2,Jewish,atheist,Economy,30
+Merets,Woman,47,Center,City,8,High school,5K-10K,Married,2,Jewish,secular,Health,50
+Likud,Woman,61,Center,City,3,Graduate High school,10K-15K,Widowed,2,Jewish,secular,Health,50
+Yamina,Man,34,Yehuda Ve Shomron,Yeshuv,4,First degree,15K-20K,Married,3,Jewish,religious,Health,85
+Yesh Atid,Woman,52,Center,City,4,Graduate High school,less then 5K,Married,2,Jewish,secular,Economy,50
+Haavoda,Man,29,Tel Aviv,City,2,First degree,5K-10K,Single,0,Jewish,secular,Culture,35
+Yesh Atid,Man,60,Tel Aviv,City,5,Second degree,25K+,Married,3,Jewish,secular,Economy,50
+Yesh Atid,Man,61,Tel Aviv,City,8,Second degree,25K+,Married,4,Jewish,secular,Health,60
+Hareshima Hameshutefet,Man,24,Center,City,4,High school,5K-10K,Single,0,Jewish,secular,Social equality,47
+Likud,Man,22.5,Center,City,4,First degree,10K-15K,Single,0,Jewish,secular,Security,80
+Israel Beitenu,Man,26,Center,City,4,First degree,less then 5K,Single,0,Jewish,secular,Economy,75
+Tikva Hadasha,Woman,24,Yehuda Ve Shomron,City,5,First degree,20K-25K,Single,0,Jewish,secular,Economy,85
+Other,Woman,23,Tel Aviv,City,2,High school,20K-25K,Single,0,Jewish,observant,Social equality,60
+Likud,Man,25,Center,City,4,Graduate High school,5K-10K,Single,0,Jewish,secular,Economy,80
+Merets,Woman,25,Center,City,5,First degree,less then 5K,Single,0,Jewish,secular,Health,30
+Tikva Hadasha,Man,60,Center,City,4,Graduate High school,10K-15K,Married,3,Jewish,secular,Health,50
+Haavoda,Woman,26,Tel Aviv,City,3,First degree,less then 5K,Single,0,Jewish,secular,Social equality,40
+Haavoda,Woman,24,Center,City,4,Graduate High school,less then 5K,Single,0,Jewish,secular,Social equality,40
+Other,Woman,23,South,City,3,High school,Unemployed,Single,0,Jewish,atheist,Economy,40
+Haavoda,Man,25,Center,City,10,High school,25K+,Single,0,Jewish,atheist,Economy,15
+Haavoda,Woman,24,Center,City,2,First degree,less then 5K,Single,0,Jewish,secular,Social equality,40
+Tikva Hadasha,Man,26,South,City,5,First degree,Unemployed,Single,0,Jewish,atheist,Economy,65
+Likud,Man,22,Center,Yeshuv,6,High school,5K-10K,Single,0,Jewish,secular,Security,70
+Other,Woman,25,Haifa,City,5,High school,10K-15K,Single,0,Jewish,secular,Social equality,30
+Yesh Atid,Man,22,Center,Yeshuv,5,High school,less then 5K,Single,0,Jewish,atheist,Social equality,50
+Other,Man,24,Haifa,City,4,First degree,Unemployed,Single,0,Jewish,secular,Culture,50
+Merets,Woman,25,Center,City,5,First degree,less then 5K,Single,0,Jewish,secular,Health,30
+Haavoda,Man,23,Tel Aviv,City,8,First degree,Unemployed,Single,0,Jewish,observant,Social equality,20
+Haavoda,Woman,22,Tel Aviv,City,3,High school,Unemployed,Single,0,Jewish,atheist,Social equality,20
+Likud,Man,26,South,Moshav,2,Other,10K-15K,Married,0,Jewish,observant,Health,65
+Tikva Hadasha,Man,24,Out of Israel,Other,1,Graduate High school,15K-20K,Single,0,Jewish,secular,Economy,40
+Tikva Hadasha,Man,24,Center,Yeshuv,5,High school,5K-10K,Single,0,Jewish,secular,Social equality,35
+Yesh Atid,Man,23,Center,Moshav,4,First degree,less then 5K,Single,0,Jewish,secular,Economy,40
+Tikva Hadasha,Man,24,Center,Yeshuv,5,High school,5K-10K,Single,0,Jewish,secular,Social equality,35
+Israel Beitenu,Man,24,Center,Yeshuv,5,High school,10K-15K,Single,0,Jewish,atheist,Security,75
+Haavoda,Woman,25,Center,City,5,First degree,less then 5K,Single,0,Jewish,secular,Economy,50
+Yesh Atid,Man,24,Tel Aviv,City,5,High school,10K-15K,Single,0,Jewish,secular,Economy,70
+Israel Beitenu,Man,24,Center,Yeshuv,5,High school,10K-15K,Single,0,Jewish,atheist,Security,75
+Yesh Atid,Woman,50,Tel Aviv,City,4,First degree,15K-20K,Married,3,Jewish,secular,Economy,40
+Other,Man,24,Center,City,4,Graduate High school,Unemployed,Single,0,Jewish,secular,Economy,40
+Yesh Atid,Woman,54,Tel Aviv,City,5,Graduate High school,20K-25K,Married,3,Jewish,secular,Social equality,50
+Other,Man,24,Center,City,5,High school,5K-10K,Single,0,Jewish,secular,Social equality,50
+Likud,Man,29,Center,City,6,First degree,20K-25K,Other,0,Jewish,secular,Economy,50
+Yamina,Man,25,Tel Aviv,City,4,Other,less then 5K,Single,0,Jewish,secular,Economy,0
+Hatsionut Hadatit,Man,26,Tel Aviv,City,6,High school,less then 5K,Single,0,Jewish,religious,Economy,88
+Yesh Atid,Man,23,Tel Aviv,City,6,Graduate High school,Unemployed,Single,0,Jewish,atheist,Economy,45
+Yesh Atid,Woman,34,North,City,4,Third degree and above,15K-20K,Married,3,Jewish,secular,Health,10
+Yesh Atid,Man,28,Center,City,3,First degree,5K-10K,Single,0,Jewish,secular,Economy,50
+Kahol Lavan,Man,26,Center,Yeshuv,7,High school,less then 5K,Single,0,Jewish,secular,Social equality,50
+Tikva Hadasha,Man,26,Center,City,4,First degree,5K-10K,Single,0,Jewish,secular,Economy,60
+Merets,Woman,23,Center,City,6,High school,Unemployed,Single,0,Jewish,atheist,Social equality,15
+Likud,Man,26,South,Moshav,2,Other,10K-15K,Married,0,Jewish,observant,Health,65
+Kahol Lavan,Woman,24,Center,Yeshuv,5,High school,less then 5K,Single,0,Jewish,secular,Security,50
+Likud,Woman,24,Center,City,5,First degree,Unemployed,Single,0,Jewish,observant,Health,80
+Merets,Man,56,Tel Aviv,City,5,First degree,20K-25K,Married,3,Jewish,secular,Social equality,35
+Yamina,Man,21,Yehuda Ve Shomron,Yeshuv,3,Graduate High school,less then 5K,Single,0,Jewish,secular,Health,50
+Israel Beitenu,Man,27,Center,City,3,Other,5K-10K,Single,0,Jewish,secular,Social equality,80
+Likud,Woman,24,Center,City,5,First degree,Unemployed,Single,0,Jewish,observant,Health,80
+Tikva Hadasha,Woman,50,Center,City,3,High school,10K-15K,Divorced,1,Jewish,secular,Health,50
+Tikva Hadasha,Woman,22,Center,Yeshuv,4,High school,5K-10K,Single,0,Jewish,secular,Social equality,60
+Other,Woman,20,Yehuda Ve Shomron,Yeshuv,8,Graduate High school,5K-10K,Single,0,Jewish,secular,Security,100
+Likud,Woman,21,Center,City,2,Graduate High school,5K-10K,Single,0,Jewish,observant,Security,99
+Yamina,Woman,23,Center,City,5,Graduate High school,Unemployed,Single,0,Jewish,observant,Security,90
+Merets,Woman,22,Center,City,5,High school,5K-10K,Single,0,Jewish,atheist,Health,20
+Likud,Woman,22,Center,City,5,High school,less then 5K,Single,0,Jewish,observant,Security,90
+Merets,Woman,22,Tel Aviv,City,5,Graduate High school,5K-10K,Single,0,Jewish,atheist,Health,35
+Kahol Lavan,Woman,20,Center,City,5,High school,less then 5K,Single,0,Jewish,secular,Economy,60
+Other,Man,22,Jerusalem,Yeshuv,4,High school,5K-10K,Single,0,Jewish,atheist,Culture,50
+Other,Man,21,Yehuda Ve Shomron,City,5,High school,5K-10K,Single,0,Jewish,secular,Security,67
+Likud,Woman,25,North,Yeshuv,5,Graduate High school,5K-10K,Divorced,2,Jewish,observant,Security,80
+Haavoda,Woman,21,Haifa,Yeshuv,5,Graduate High school,Unemployed,Single,0,Jewish,secular,Social equality,50
+Tikva Hadasha,Woman,21,Center,City,5,High school,10K-15K,Single,0,Jewish,secular,Security,80
+Yesh Atid,Woman,20,North,City,5,High school,less then 5K,Single,0,Jewish,observant,Economy,60
+Likud,Woman,30,South,City,4,High school,less then 5K,Divorced,2,Jewish,secular,Economy,70
+Yahadut Hatora,Man,24,Center,City,6,Graduate High school,10K-15K,Single,0,Jewish,observant,Security,70
+Likud,Woman,21,Center,City,2,Graduate High school,5K-10K,Single,0,Jewish,observant,Security,99
+Other,Woman,25,Center,City,2,High school,5K-10K,Single,0,Jewish,observant,Social equality,80
+Haavoda,Woman,21,Haifa,Yeshuv,5,Graduate High school,Unemployed,Single,0,Jewish,secular,Social equality,50
+Kahol Lavan,Woman,22,Center,City,6,High school,Unemployed,Single,0,Jewish,secular,Security,40
+Kahol Lavan,Woman,21,Tel Aviv,City,4,First degree,Unemployed,Single,0,Jewish,secular,Economy,30
+Other,Woman,20,Yehuda Ve Shomron,Yeshuv,8,Graduate High school,5K-10K,Single,0,Jewish,secular,Security,100
+Likud,Woman,25,North,Yeshuv,5,Graduate High school,5K-10K,Divorced,2,Jewish,observant,Security,80
+Likud,Man,23,Jerusalem,Yeshuv,5,High school,25K+,Single,0,Jewish,observant,Security,85
+Other,Man,21,Center,City,5,None,5K-10K,Single,0,Jewish,Other,Economy,70
+Merets,Woman,22,Tel Aviv,City,5,Graduate High school,5K-10K,Single,0,Jewish,atheist,Health,35
+Yamina,Man,21,Yehuda Ve Shomron,Yeshuv,4,High school,Unemployed,Single,0,Jewish,atheist,Security,75
+Yesh Atid,Woman,23,Haifa,City,4,High school,less then 5K,Single,0,Jewish,secular,Economy,50
+Haavoda,Man,22,Tel Aviv,City,4,High school,Unemployed,Single,0,Jewish,observant,Social equality,30
+Likud,Woman,28,Center,City,4,First degree,5K-10K,Single,0,Jewish,observant,Security,70
+Israel Beitenu,Man,63,Center,City,4,Graduate High school,10K-15K,Married,2,Jewish,secular,Health,50
+Yesh Atid,Woman,20,North,City,5,High school,less then 5K,Single,0,Jewish,observant,Economy,60
+Kahol Lavan,Woman,22,Center,City,6,High school,Unemployed,Single,0,Jewish,secular,Security,40
+Yesh Atid,Man,28,Center,City,4,First degree,10K-15K,Single,0,Jewish,atheist,Economy,50
+Yesh Atid,Man,61,Tel Aviv,City,8,Second degree,25K+,Married,4,Jewish,secular,Health,60
+Yesh Atid,Man,21,Center,City,4,High school,10K-15K,Single,0,Jewish,secular,Economy,60
+Yesh Atid,Man,21,Center,City,6,Graduate High school,5K-10K,Single,0,Jewish,secular,Economy,30
+Merets,Other,21,Center,City,3,High school,5K-10K,Other,0,Jewish,atheist,Social equality,40
+Likud,Man,30,Center,City,4,First degree,Unemployed,Single,0,Jewish,secular,Security,70
+Other,Man,23,Center,City,6,High school,5K-10K,Single,0,Jewish,secular,Economy,60
+Hakalkalit Hahadasha,Woman,35,Center,City,4,First degree,10K-15K,Married,2,Jewish,secular,Economy,30
+Kahol Lavan,Man,29,Center,Moshav,3,First degree,5K-10K,Single,0,Jewish,secular,Economy,50
+Other,Woman,41,Center,Yeshuv,6,Third degree and above,20K-25K,Single,2,Jewish,secular,Health,80
+Likud,Man,54,Center,City,4,Second degree,20K-25K,Divorced,2,Jewish,secular,Security,80
+Israel Beitenu,Woman,36,Center,City,5,First degree,10K-15K,Married,1,Jewish,secular,Health,70
+Yesh Atid,Woman,39,Center,City,4,First degree,5K-10K,Married,3,Jewish,secular,Economy,50
+Yamina,Woman,40,Center,City,5,First degree,15K-20K,Married,4,Jewish,religious,Economy,60
+Yamina,Man,25,Center,Moshav,6,High school,Unemployed,Married,1,Jewish,religious,Economy,75
+Tikva Hadasha,Woman,73,Tel Aviv,City,3,First degree,10K-15K,Single,0,Jewish,atheist,Health,70
+Haavoda,Woman,25,Haifa,City,2,Other,5K-10K,Other,0,Jewish,secular,Health,40
+Other,Woman,25,Center,City,2,High school,5K-10K,Single,0,Jewish,observant,Social equality,80
+Likud,Man,23,Jerusalem,Yeshuv,5,High school,25K+,Single,0,Jewish,observant,Security,85
+Yesh Atid,Woman,34,North,City,4,Third degree and above,15K-20K,Married,3,Jewish,secular,Health,10
+Yesh Atid,Woman,33,Center,Yeshuv,4,High school,less then 5K,Single,0,Jewish,secular,Social equality,0
+Tikva Hadasha,Woman,28,Center,Moshav,5,First degree,Unemployed,Single,0,Jewish,secular,Social equality,50
+Israel Beitenu,Woman,24,Center,City,5,Graduate High school,Unemployed,Single,0,Jewish,secular,Security,85
+Merets,Man,34,Tel Aviv,Yeshuv,2,Graduate High school,25K+,Single,0,Jewish,atheist,Social equality,20
+Tikva Hadasha,Woman,25,South,City,3,First degree,less then 5K,Single,0,Jewish,secular,Health,60
+Yesh Atid,Woman,27,Center,City,5,First degree,Unemployed,Single,0,Jewish,secular,Economy,50
+Israel Beitenu,Woman,24,Center,City,5,Graduate High school,Unemployed,Single,0,Jewish,secular,Security,85
+Likud,Man,48,Haifa,Kefar,4,Second degree,10K-15K,Married,4,Muslim,observant,Social equality,50
+Kahol Lavan,Woman,23,North,Kefar,4,First degree,less then 5K,Married,0,Druze,secular,Health,30
+Hatsionut Hadatit,Man,39,Center,City,3,Second degree,20K-25K,Single,0,Jewish,observant,Security,100
+Merets,Woman,26,South,City,3,First degree,5K-10K,Married,3,Muslim,religious,Health,10
+Hareshima Hameshutefet,Woman,49,Haifa,Kefar,3,Graduate High school,less then 5K,Widowed,3,Muslim,Very religious,Social equality,0
+Hareshima Hameshutefet,Woman,40,South,City,3,First degree,5K-10K,Married,6,Muslim,religious,Economy,60
+Hareshima Hameshutefet,Woman,33,South,City,4,First degree,5K-10K,Married,2,Muslim,religious,Social equality,0
+Other,Woman,44,South,City,2,Second degree,5K-10K,Married,2,Muslim,observant,Security,50
+Likud,Man,31,North,Moshav,4,First degree,10K-15K,Single,0,Jewish,religious,Economy,60
+Hareshima Hameshutefet,Woman,31,Haifa,Kefar,4,First degree,less then 5K,Married,4,Muslim,Other,Culture,10
+Kahol Lavan,Woman,23,North,Kefar,4,First degree,less then 5K,Married,0,Druze,secular,Health,30
+Hareshima Hameshutefet,Woman,55,Haifa,Kefar,5,First degree,5K-10K,Married,4,Muslim,religious,Social equality,50
+Hareshima Hameshutefet,Woman,57,Center,Kefar,7,Second degree,10K-15K,Married,4,Muslim,religious,Economy,0
+Likud,Woman,34,North,Kefar,6,Graduate High school,less then 5K,Married,3,Druze,observant,Health,100
+Hareshima Hameshutefet,Man,50,North,Kefar,4,First degree,5K-10K,Married,4,Muslim,observant,Economy,50
+Other,Woman,48,Center,Kefar,3,First degree,5K-10K,Married,4,Muslim,religious,Health,20
+Hareshima Hameshutefet,Woman,50,South,Kefar,8,First degree,5K-10K,Married,5,Muslim,religious,Health,50
+Likud,Woman,27,South,City,7,First degree,less then 5K,Single,0,Muslim,observant,Health,50
+Other,Woman,45,South,City,4,Second degree,5K-10K,Divorced,3,Muslim,observant,Health,0
+Other,Woman,26,South,City,2,First degree,less then 5K,Married,2,Muslim,religious,Social equality,50
+Hareshima Hameshutefet,Woman,33,North,Kefar,7,Second degree,5K-10K,Married,3,Muslim,observant,Health,46
+Hareshima Hameshutefet,Woman,34,Haifa,City,8,Second degree,5K-10K,Married,2,Muslim,religious,Security,10
+Hareshima Hameshutefet,Woman,39,Haifa,Kefar,8,Second degree,10K-15K,Married,3,Muslim,religious,Culture,50
+Hareshima Hameshutefet,Woman,35,South,Yeshuv,4,First degree,5K-10K,Married,2,Muslim,religious,Health,50
+Hareshima Hameshutefet,Woman,36,South,City,3,Second degree,5K-10K,Married,1,Muslim,observant,Security,0
+Other,Woman,27,South,Yeshuv,2,First degree,5K-10K,Married,3,Muslim,religious,Security,0
+Hareshima Hameshutefet,Woman,27,South,City,4,Second degree,5K-10K,Married,2,Muslim,religious,Health,50
+Hareshima Hameshutefet,Woman,27,South,City,4,Second degree,5K-10K,Married,2,Muslim,religious,Health,50
+Yesh Atid,Woman,23,Haifa,City,4,High school,less then 5K,Single,0,Jewish,secular,Economy,50
+Hareshima Hameshutefet,Woman,34,Center,Yeshuv,3,Second degree,5K-10K,Married,5,Muslim,religious,Culture,40
+Hareshima Hameshutefet,Man,66,North,Kefar,4,First degree,10K-15K,Married,4,Muslim,religious,Health,45
+Hareshima Hameshutefet,Woman,44,Haifa,Kefar,8,Second degree,5K-10K,Married,5,Muslim,religious,Health,80
+Likud,Woman,24,Center,City,5,First degree,Unemployed,Single,0,Jewish,observant,Health,80
+Yesh Atid,Man,60,Tel Aviv,City,5,Second degree,25K+,Married,3,Jewish,secular,Economy,50
+Haavoda,Woman,26,Tel Aviv,City,3,First degree,less then 5K,Single,0,Jewish,secular,Social equality,40
+Israel Beitenu,Woman,35,Center,City,3,Second degree,10K-15K,Married,2,Jewish,secular,Health,70
+Yesh Atid,Man,29,Tel Aviv,City,2,First degree,less then 5K,Single,0,Jewish,atheist,Economy,40

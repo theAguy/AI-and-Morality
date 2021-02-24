@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from scipy.optimize import linear_sum_assignment as linear_assignment
+#from scipy.optimize import linear_sum_assignment as linear_assignment
 from sklearn.ensemble import RandomForestClassifier
 pd.options.display.float_format = "{:,.2f}".format
 # Import train_test_split function

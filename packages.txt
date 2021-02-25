@@ -1,7 +1,7 @@
-streamlit==0.76
-pandas==1.1
-matplotlib==3.3
-scikit-learn==0.24
-scipy==1.5
-seaborn==0.11
+streamlit=0.76
+pandas=1.1
+matplotlib=3.3
+scikit-learn=0.24
+scipy=1.5
+seaborn=0.11
 

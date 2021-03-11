@@ -14,6 +14,8 @@ import seaborn as sns
 # import image to top of the page
 st.image("https://kanstatic.azureedge.net/download/pictures/2020/12/28/imgid=44378_X.jpeg")
 
+st.write("It is recommended using via computer")
+
 # set the title and description
 st.write("""
 # Parties Prediction App

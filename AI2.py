@@ -18,7 +18,7 @@ st.image("https://kanstatic.azureedge.net/download/pictures/2020/12/28/imgid=443
 st.write("""
 # Parties Prediction App
 This app predicts the **party** you should vote for!\n
-In the left side (if using mobil, please press on the **black arrow**) you should fill in your personal data\n
+In the left side (if using mobile, please press on the **black arrow**) you should fill in your personal data\n
 After filling in and pressing "done", your predicted party will be shown in the middle of the screen! (scroll down a little bit to see the party's name)\n
 If you would like to know what was the odds for the app to predict different party press on "Prediction Probability", which is below your prediction\n\n
 The **privacy policy** is written at the bottom of the page and we encourage you to read it!

@@ -241,7 +241,7 @@ prediction_proba = pd.DataFrame(prediction_proba,columns=['probability'], index=
 st.sidebar.error("By pressing 'Done and proceed', you confirm the use of your personal data")
 if st.sidebar.button("Done and proceed"):
     st.sidebar.write("Your preferences are now set!")
-    st.sidebar.write("**if you are using mobile phone - scroll back up and press the X**")
+    st.sidebar.write("**if you are using mobile phone - scroll back up and press the X, and then scroll down untill you see the result!**")
 
 
 # Show user input

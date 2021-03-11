@@ -214,7 +214,7 @@ my_dict2 = {y:x for x,y in class_dict.items()}
 parties_names = pd.DataFrame.from_dict(my_dict2,orient='index')
 
 # Split dataset into training set and test set
-X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.1) # 70% training and 30% test
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y)
 
 #Create a Gaussian Classifier
 clf = RandomForestClassifier(n_estimators=100)

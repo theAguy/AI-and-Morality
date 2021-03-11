@@ -514,7 +514,7 @@ Auto Encoder – Unsupervised Learning
 
     st.markdown("<p style='text-align: center;'>"
                 """
-	לבדוק את המרחק של הווקטור מהצנטרואיד שקיבלנו מהקיימנינס#
+	לבדוק את המרחק של הווקטור מהצנטרואיד שקיבלנו מהקיימינס#
                 """
                 "</p>", unsafe_allow_html=True)
 

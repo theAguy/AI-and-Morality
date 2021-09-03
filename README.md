@@ -1,4 +1,4 @@
-# morality
+# AI and Morality final project
 
 Final project AI AND MORALITY course for Msc in IDC (Reichman university)
 This project was built during the elections in Israel.
